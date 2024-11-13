@@ -14,9 +14,9 @@ This Python script was created as part of a university exam. This script is a Po
 To run this code, you only need Python 3.x. No additional libraries are required.
 
 ```bash
-git clone https://github.com/JiacoDev/Postfix-Expression-Solver.git
-cd ~/postfix-expr-evaluator #change path if you want
-python3 postfix_eval.py
+git clone https://github.com/JiacoDev/Postfix-Expression-Solver.git ./Postfix-expr-solver
+cd ./Postfix-expr-solver
+python3 Postfix_eval.py #use just this line if you want to run the code after you already downloaded the script
 ```
 
 ## Usage
