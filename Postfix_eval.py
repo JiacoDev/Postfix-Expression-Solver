@@ -585,6 +585,7 @@ def runProf5Test():
     expr.evaluate({})
     print(f"{expr}")
 
+
 #Inizio __main__
 env = {"+": Addition, "*": Multiplication, "**": Power, "-": Subtraction,
     "/": Division, "1/": Reciprocal, "abs": AbsoluteValue, "%": Modulus,
